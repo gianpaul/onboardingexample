@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Onboarding</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="title1">Select your course</string>
+    <string name="description1">Select your course from more than 1000 courses on our online platform</string>
+    <string name="title2">Get your certificate</string>
+    <string name="description2">At the end of your course, get your certificate completely free by taking your exam</string>
+    <string name="title3">Different forms of payment</string>
+    <string name="description3">You have more than 5 forms of payments and you can pay it whenever you want</string>
+    <string name="start">Start</string>
+    <string name="hello">HELLO</string>
+</resources>
